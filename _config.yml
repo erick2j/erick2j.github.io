@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "erick's geometry corner"
 title_separator          : "-"
 name                     : &name "Erick Jimenez Berumen"
 description              : &description "personal description"
