@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Understanding Geometry"
+title                    : 
 title_separator          : "-"
 name                     : &name "Erick Jimenez Berumen"
 description              : &description "personal description"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Erick Jimenez Berumen"
-  avatar           : "profile.png"
+  avatar           : "PoppyReserve.png"
   bio              : "First-year CS PhD at Boston University"
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "erickjb [at] bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
