@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "erick"
+  name             : "Erick Jimenez Berumen"
   avatar           : "profile.png"
   bio              : "First-year CS PhD at Boston University"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "erickjb [at] bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
