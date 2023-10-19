@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "erick's geometry corner"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## hello, i'm erick!
+## about me
 I am a first-year Computer Science PhD student at [Boston University](https://www.bu.edu/cs/) advised by Professor [Edward Chien](https://cs-people.bu.edu/edchien/).
 Previously, I obtained my BS of Applied and Computational Mathematics from [Caltech](https://www.cms.caltech.edu/).
 
