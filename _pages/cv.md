@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "cv"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied and Computation Mathematics, *California Institute of Technology*, 2023
+* Ph.D in Computer Science, *Boston University*, 2028 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Fellow
+    * California Summer Undergradute Fellowship
+    * Advisor: Peter Schroeder
+* Summer 2021: Research Fellow
+    * MIT Summer Geometry Institute Fellow
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages 
+  * C++
+  * MATLAB
+  * LaTeX
+  * CUDA
+* Modelling Software 
+  * Blender
+  * Houdini
+* Languages
+  * English
+  * Spanish
+  * French
 
 Publications
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* MIT Summer Geometry Institute 2022 Project Volunteer 
