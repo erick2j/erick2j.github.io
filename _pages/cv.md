@@ -15,27 +15,27 @@ Education
 * Ph.D in Computer Science, *Boston University*, 2028 (expected)
 
 Research Experience
-======
-* Summer 2022: Research Fellow
-    * California Summer Undergradute Fellowship
+===================
+* Caltech Summer Undergraduate Fellowship (SURF) : Summer 2022: 
+* California Summer Undergradute Fellowship
     * Advisor: Peter Schroeder
-* Summer 2021: Research Fellow
-    * MIT Summer Geometry Institute Fellow
+* MIT Summer Geometry Institute Fellowship (MIT SGI) : Summer 2021
+
+Awards
+======
+* Boston University Dean's Fellowship : Fall 2023
+    * Merit-based scholarship covering stipend and tuition costs without expectation of service
+* Questbridge National College Match Scholarship : 2019
+    * 1 of 6 recipients of full-tuition and board scholarhsip to Caltech
   
 Skills
 ======
 * Programming Languages 
-  * C++
-  * MATLAB
-  * LaTeX
-  * CUDA
+  * MATLAB, C++, CUDA, LaTeX, Python 
 * Modelling Software 
-  * Blender
-  * Houdini
+  * Blender, Houdini
 * Languages
-  * English
-  * Spanish
-  * French
+    * English, Spanish, French
 
 Publications
 ======
