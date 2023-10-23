@@ -9,17 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+==================
+I am currently highly interested in all of the different ways we can use *differential
+geometry* and *geometric measure theory* to better understand the geometric principles
+underlying different physical phenomena.
+In particular, I am interested in how we can translate this understanding
+in a way that suitable for computation through the use of *discrete differential geometry*. 
+
 Education
 ======
 * B.S. in Applied and Computation Mathematics, *California Institute of Technology*, 2023
 * Ph.D in Computer Science, *Boston University*, 2028 (expected)
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 Research Experience
 ===================
-* Caltech Summer Undergraduate Fellowship (SURF) : Summer 2022: 
-* California Summer Undergradute Fellowship
+* _Caltech Summer Undergraduate Fellowship_ (SURF) : Summer 2022: 
     * Advisor: Peter Schroeder
-* MIT Summer Geometry Institute Fellowship (MIT SGI) : Summer 2021
+    * Project: _Computing Tri-Partitions of an Ordered Complex_
+* _MIT Summer Geometry Institute Fellowship_ (MIT SGI) : Summer 2021
 
 Awards
 ======
@@ -37,12 +51,7 @@ Skills
 * Languages
     * English, Spanish, French
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
